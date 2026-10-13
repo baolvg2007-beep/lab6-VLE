@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\bin\Debug\lab6-mảng.exe.config
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\bin\Debug\lab6-mảng.exe
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\bin\Debug\lab6-mảng.pdb
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\obj\Debug\lab6-mảng.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\obj\Debug\lab6_mảng.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\obj\Debug\lab6-mảng.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\obj\Debug\lab6-mảng.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\obj\Debug\lab6-mảng.exe
+C:\Users\ASUS\source\repos\LTWIN\lab6-mảng\obj\Debug\lab6-mảng.pdb
